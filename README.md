@@ -112,7 +112,7 @@ python benchmark.py --engine models/x3d_s.engine --batch_path data/sample_video.
 
 如果这个项目对您有帮助，欢迎请作者喝杯咖啡支持后续开发！
 
-![微信支持二维码](https://via.placeholder.com/200x200/008800/ffffff?text=请作者喝咖啡)
+![请作者喝杯咖啡支持](https://raw.githubusercontent.com/tiantian0317/MinerInfer/refs/heads/main/asset/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_2025-08-27_143223_615.jpg)
 
 **您的支持是我持续更新的动力！**
 ---

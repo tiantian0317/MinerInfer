@@ -108,6 +108,13 @@ python benchmark.py --engine models/x3d_s.engine --batch_path data/sample_video.
 
 本项目为实验性方案，仅用于学习和研究目的。使用者需自行承担风险，作者不对因使用本项目造成的任何损失负责。
 
+### 支持项目
+
+如果这个项目对您有帮助，欢迎请作者喝杯咖啡支持后续开发！
+
+![微信支持二维码](https://via.placeholder.com/200x200/008800/ffffff?text=请作者喝咖啡)
+
+**您的支持是我持续更新的动力！**
 ---
 
 **让废弃矿机重获新生，为AI推理提供低成本高性能解决方案！**
